@@ -1,0 +1,4 @@
+cryptography==2.8
+cose
+cbor2
+base45
